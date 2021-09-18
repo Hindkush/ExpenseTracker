@@ -6,7 +6,7 @@
 * [Techincal Information](#Technical-Information)
 ## About
 A Expense Tracker website built using HTML5, CSS3, and JavaScript for the functionalities. Tried to keep very simple looking UI but its very effective. 
-###### Do have a look at NAVIGATION BAR that has links to different pages like COURSES, CONTACT, etc.
+
 ## Features
 * Maintain Your Daily Expense.
 * Add some text with daily transaction.
